@@ -1,0 +1,90 @@
+NVDA
+NVIDIA Corporation
+178.43
+MSFT
+Microsoft Corporation
+509.23
+AAPL
+Apple Inc.
+254.43
+AMZN
+Amazon.com, Inc.
+220.71
+JPM
+JPMorgan Chase & Co.
+312.74
+WMT
+Walmart Inc.
+102.52
+V
+Visa Inc.
+338.70
+JNJ
+Johnson & Johnson
+176.58
+HD
+The Home Depot, Inc.
+410.91
+PG
+The Procter & Gamble Company
+152.50
+CVX
+Chevron Corporation
+157.42
+UNH
+UnitedHealth Group Incorporated
+347.69
+KO
+The Coca-Cola Company
+66.71
+CSCO
+Cisco Systems, Inc.
+67.54
+GS
+The Goldman Sachs Group, Inc.
+806.32
+IBM
+International Business Machines Corporation
+272.24
+AXP
+American Express Company
+341.47
+CRM
+Salesforce, Inc.
+244.56
+CAT
+Caterpillar Inc.
+471.26
+MCD
+McDonald's Corporation
+303.19
+DIS
+The Walt Disney Company
+112.25
+MRK
+Merck & Co., Inc.
+79.96
+VZ
+Verizon Communications Inc.
+43.35
+BA
+The Boeing Company
+216.34
+AMGN
+Amgen Inc.
+286.81
+HON
+Honeywell International Inc.
+209.31
+NKE
+NIKE, Inc.
+70.93
+SHW
+The Sherwin-Williams Company
+344.45
+MMM
+3M Company
+156.29
+TRV
+The Travelers Companies, Inc.
+276.26
